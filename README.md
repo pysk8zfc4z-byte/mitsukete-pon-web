@@ -13,4 +13,4 @@
 - 画像素材を使わない。すべて Canvas にコードで描いている（アイコンも生成）
 - 一度開けばオフラインでも起動する（Service Worker）
 
-source: `703cbef`
+source: `acd0746`
